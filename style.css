@@ -15,8 +15,16 @@ header{
 #featured-property figure{
   text-align: center;
 }
+#featured-property  p{
 
+  width: 60%;
+  margin-left: 20%;
+}
 
 #featured-property p{
 text-align: center;
+ }
+ #details{
+   display: flex;
+   justify-content: space-evenly;
  }

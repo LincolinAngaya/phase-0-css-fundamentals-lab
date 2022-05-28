@@ -27,4 +27,5 @@ text-align: center;
  #details{
    display: flex;
    justify-content: space-evenly;
+   background: red;
  }

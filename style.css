@@ -3,6 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+nav a{
+  padding:0 10px;
+  background: gray;
+
+}
 header{
   text-align: center;
 }
@@ -13,6 +18,5 @@ header{
 
 
 #featured-property p{
- color: red;
 text-align: center;
  }
